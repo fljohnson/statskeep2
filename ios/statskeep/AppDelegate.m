@@ -7,12 +7,12 @@
 
 #import "AppDelegate.h"
 
-#import <React/RCTBundleURLProvider.h>
-#import <React/RCTRootView.h>
+#import "React/RCTBundleURLProvider.h"
+#import "React/RCTRootView.h"
 
-#import <UMCore/UMModuleRegistry.h>
-#import <UMReactNativeAdapter/UMNativeModulesProxy.h>
-#import <UMReactNativeAdapter/UMModuleRegistryAdapter.h>
+#import "UMCore/UMModuleRegistry.h"
+#import "UMReactNativeAdapter/UMNativeModulesProxy.h"
+#import "UMReactNativeAdapter/UMModuleRegistryAdapter.h"
 
 @implementation AppDelegate
 
